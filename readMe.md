@@ -1,4 +1,4 @@
-# Midaas Telesoft Pvt Ltd.
+# Prime No Generator.
 
 This project is help you to generates prime number series.
 Just download and install packages from requirement.txt
