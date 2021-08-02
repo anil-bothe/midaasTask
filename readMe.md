@@ -11,7 +11,7 @@ Just download and install packages from requirement.txt
 
 ## Important links
 1. login/register new user
-    - http://127.0.0.1:8000/midaas/login/
+    - http://127.0.0.1:8000/login/
     - Use POST method 
     - Pass username and password in body/json
     - You will get token
@@ -19,10 +19,10 @@ Just download and install packages from requirement.txt
 2. Use token for each request
 
 3. Get all primes number records
-    - http://127.0.0.1:8000/midaas/prime-no/
+    - http://127.0.0.1:8000/prime-no/
 
 4. Check prime no series
-    - http://127.0.0.1:8000/midaas/prime-no/
+    - http://127.0.0.1:8000/prime-no/
     - Use POST Method
     - Pass algo_id, start_no and end_no in body/json
     - You will get result
